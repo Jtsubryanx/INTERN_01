@@ -1,2 +1,0 @@
-# INTERN_01
-SỬ DỤNG CHO THỰC TẬP KÌ 1

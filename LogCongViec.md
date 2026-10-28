@@ -1,0 +1,34 @@
+# INTERN_01
+SỬ DỤNG CHO THỰC TẬP KÌ 1
+NHÓM THỨ 3 - THÀNH VIÊN NHÓM:
+1. PHẠM CÔNG MẠNH (62232520053)
+2. NGUYỄN QUANG MINH (62232520077)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>**LOG CÔNG VIỆC**<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+**20/10/2026** 
+TÓM TẮT NGẮN: NHÓM ĐÃ CHỌN RA ĐƯỢC ĐỀ TÀI LÀM WEBSITE BÁN ĐỒ THỂ THAO
+VIỆC CẦN LÀM: 
+1.THỰC HIỆN ĐƯỢC KHẢO SÁT UX/UI (VẼ PERSONA, VIẾT RA ĐƯỢC FLOW CHART CHỨC NĂNG CHO TỪNG WEBSITE CON)
+2.ĐẶT TÊN WEB + LÀM LOGO + SLOGAN.
+3.TÌM TƯ LIỆU HÌNH ẢNH (GOOGLE, COLORLIB xem thêm trong zalo)
+4.THỰC HIỆN LÀM WEBSITE VỚI KẾT QUẢ CUỐI CÙNG LÀ ĐỊNH DẠNG HTML/CSS ( NHÓM CÓ THỐNG NHẤT SỬ DỤNG FIGMA VÀ XUẤT RA CODE )
+- DỰ ĐỊNH MỖI THÀNH VIÊN SẼ LÀM 5 PERSONA ( PHÂN TÍCH + ĐƯA RA TÍNH NĂNG CẦN THIẾT CHO WEB QUA CÁC PERSONA )
+- XÂY DỰNG ĐƯỢC FLOW CHART ĐƠN GIẢN CỦA TRANG WEB GỐC CẦN CÓ SAU ĐÓ MỖI THÀNH VIÊN LỰA CHỌN CHIA ĐỀU SL TRANG WEB CON VÀ THỰC HIỆN VIẾT FLOW CHART (USER FLOW) CHO CÁC CHỨC NĂNG BÊN TRONG TRANG WEB CON ĐẢM BẢO ĐƯỢC TÍNH LIÊN KẾT GIỮA CÁC TRANG CON VỚI NHAU
+- XÂY DỰNG TRANG WEB DỰA TRÊN FLOWCHART ĐÃ XÂY DỰNG  
+5. VIẾT BÁO CÁO HẲNG TUẦN, TRAO ĐỔI GIẢNG VIÊN HƯƠNG DẪN VÀ NỘP BÀI THỰC HÀNH ( NHÓM QUYẾT ĐỊNH SỬ DỤNG GITHUB LÀM NỀN TẢNG LƯU THÔNG TIN VÀ BÀI LÀM KIỂM TRA ĐƯỢC TIẾN TRIỂN )
+HIỆN TẠI:
+KIẾN THỨC HTML/CSS VÀ THIẾT KẾ UX/UI FIGMA CÓ LỖ HỔNG CẦN VÁ LẠI (XEM THÊM Ở FILE ÔN TẬP)
+-> CHƯA LÊN ĐƯỢC TỔNG QUAN IDEA, TÊN, TÍNH NĂNG, CÁC YÊU CẦU CƠ BẢN ĐỂ LÀM NÊN WEB
+----------------------------------------------------------------------------------------------------------===============================================================
+**28/10/2026**
+ĐẾN HIỆN TẠI NHÓM ĐANG SẮP XẾP LẠI THỜI GIAN ÔN TẬP TRƯƠC KHI LÀM BÀI THỰC TẾ CỤ THỂ NHƯ SAU
+- ÔN TẬP LẠI ĐỂ HIỂU RÕ ĐƯỢC CÁCH DÙNG FIGMA ĐỂ LÊN WEB
+- CÁCH VẼ PERSONA 
+- CÁCH VẼ FLOW NGƯỜI DÙNG (FLOW CHART)
+- CÁCH LÀM VIỆC ( CHỌN FRAME THIẾT BỊ -> VẼ WIRE FRAME ĐÚNG THÔNG SỐ -> TẠO TRANG TỪ WIREFRAME TƯƠNG ỨNG CÓ ĐẦY ĐỦ HEADER, FOOTER -> SỬ DỤNG CÁC COMPONENT ĐỂ TẠO NÊN HIỆU ỨNG CHO CÁC CHỨC NĂNG CỦA WEB )
+- HIỂU CÁC LƯU Ý CHUNG KHI TẠO WEB:
+> NỘI DUNG CỦA CÁC SECTION KHÔNG ĐƯỢC TRÀN QUA NHAU 
+VD: TRANG CHỦ CÓ 3 SECTION BANNER HERO, HÀNG MỚI NHẬP, GIỞI THIỆU VỀ NHÀ SÁNG LẬP
+thì nội dung khi lướt web trình chiếu lên nội dung section nào nằm ở section đó không tràn và mất thẩm mỹ
+> Khi tạo ra các frame cho thiết bị tuyệt đối không kéo dãn 
+*DEADLINE* 3/11/2026 ~ THỨ 3 tuần sau phải hiểu rõ được mục tiêu sử dụng figma sau đó mới tiến hành làm các công việc khác *DEADLINE*
