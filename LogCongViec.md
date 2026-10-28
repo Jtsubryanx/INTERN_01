@@ -25,8 +25,8 @@ KIẾN THỨC HTML/CSS VÀ THIẾT KẾ UX/UI FIGMA CÓ LỖ HỔNG CẦN VÁ L�
 - CÁCH VẼ FLOW NGƯỜI DÙNG (FLOW CHART)
 - CÁCH LÀM VIỆC ( CHỌN FRAME THIẾT BỊ -> VẼ WIRE FRAME ĐÚNG THÔNG SỐ -> TẠO TRANG TỪ WIREFRAME TƯƠNG ỨNG CÓ ĐẦY ĐỦ HEADER, FOOTER -> SỬ DỤNG CÁC COMPONENT ĐỂ TẠO NÊN HIỆU ỨNG CHO CÁC CHỨC NĂNG CỦA WEB )
 - HIỂU CÁC LƯU Ý CHUNG KHI TẠO WEB:
-> NỘI DUNG CỦA CÁC SECTION KHÔNG ĐƯỢC TRÀN QUA NHAU 
+a. NỘI DUNG CỦA CÁC SECTION KHÔNG ĐƯỢC TRÀN QUA NHAU 
 VD: TRANG CHỦ CÓ 3 SECTION BANNER HERO, HÀNG MỚI NHẬP, GIỞI THIỆU VỀ NHÀ SÁNG LẬP
 thì nội dung khi lướt web trình chiếu lên nội dung section nào nằm ở section đó không tràn và mất thẩm mỹ
-> Khi tạo ra các frame cho thiết bị tuyệt đối không kéo dãn 
+b. Khi tạo ra các frame cho thiết bị tuyệt đối không kéo dãn 
 *DEADLINE* 3/11/2026 ~ THỨ 3 tuần sau phải hiểu rõ được mục tiêu sử dụng figma sau đó mới tiến hành làm các công việc khác *DEADLINE*
