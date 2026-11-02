@@ -1,0 +1,1 @@
+Nơi tải 20 ảnh dùng làm tư liệu
