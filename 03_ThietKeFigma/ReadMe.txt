@@ -1,0 +1,1 @@
+Nơi lưu file ảnh xuất ra từ FigJam (Persona, Flowchart) và Figma (Giao diện 4 trang).
