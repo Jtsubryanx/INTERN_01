@@ -30,5 +30,7 @@
 
 ## 4. Theo dõi Tiến độ & Báo cáo Công việc Hàng tuần (Live Tracking)
 Toàn bộ kế hoạch phân công, hạn chót (Deadline) và nhật ký báo cáo công việc hàng tuần của từng thành viên (bao gồm *Ngày giờ*, *File/Nội dung đã làm*, *Mô tả ngắn gọn*) được cập nhật trực tiếp theo thời gian thực tại:
+👉 **Link FigJam:** Xem tại tab **[Thiết Kế UI]([https://www.figma.com/board/DK1frSRjF7IzJ9yCEfS2Ih/THIETKEPERSONAFLOWCHART_WEBBANDOTHETHAO_NHOM3?node-id=0-1&p=f](https://www.figma.com/design/P3iwwCZ1LwVqsXwsNDcjBs/WEBSITE-B%C3%81N-H%C3%80NG-TH%E1%BB%82-THAO_NH%C3%93M-3?node-id=0-1&t=wVchPuuQzLH6hRl0-1))**
+👉 **Link FigJam:** Xem tại tab **[Persona&Flowchart](https://www.figma.com/board/DK1frSRjF7IzJ9yCEfS2Ih/THIETKEPERSONAFLOWCHART_WEBBANDOTHETHAO_NHOM3?node-id=0-1&p=f)**
 👉 **Bảng quản lý tiến độ:** Xem tại tab **[Projects](https://github.com/Jtsubryanx/INTERN_01/projects)**
 👉 **Chi tiết đầu việc & Báo cáo từng nhiệm vụ:** Xem tại tab **[Issues (7 đầu việc)](https://github.com/Jtsubryanx/INTERN_01/issues)**
